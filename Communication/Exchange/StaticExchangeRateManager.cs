@@ -6,14 +6,14 @@ public static class StaticExchangeRateManager
     {
         // Static exchange rates relative to GEL (base currency).
         // These rates are hardcoded and should be updated manually as needed.
-        // Last updated on 29.01.2025.
+        // Last updated on 12.02.2025.
         
         return new Dictionary<string, decimal>
         {
             { "GEL", 1m },    // Georgian Lari ₾
-            { "USD", 2.88m }, // US Dollar $
-            { "EUR", 2.99m }, // Euro €
-            { "GBP", 3.58m }, // British Pound £
+            { "USD", 2.81m }, // US Dollar $
+            { "EUR", 2.92m }, // Euro €
+            { "GBP", 3.50m }, // British Pound £
         };
     }
 }
