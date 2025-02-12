@@ -1,4 +1,0 @@
-2024-12-17 19:36:24.028 +04:00 [ERR] Failed to update client with ID 1: Object reference not set to an instance of an object.
-2024-12-17 19:39:17.800 +04:00 [ERR] Failed to update client with ID 1: Object reference not set to an instance of an object.
-2024-12-17 19:43:32.797 +04:00 [ERR] Failed to update client with ID 1: Object reference not set to an instance of an object.
-2024-12-17 19:51:01.667 +04:00 [INF] Client with ID 1 was Successfully Updated.

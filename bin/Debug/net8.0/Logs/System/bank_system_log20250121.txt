@@ -1,4 +1,0 @@
-2025-01-21 22:32:24.667 +04:00 [WRN] Failed login attempt for client with email: john.doe2001@example.com
-2025-01-21 22:32:33.717 +04:00 [INF] Client with email john.doe2001@example.com logged in successfully.
-2025-01-21 22:32:55.680 +04:00 [INF] Amount 265.95 USD withdrawn successfully from Account 3043543444211934
-2025-01-21 22:33:23.969 +04:00 [INF] Amount 85.91 EUR withdrawn successfully from Account 6788127920492408

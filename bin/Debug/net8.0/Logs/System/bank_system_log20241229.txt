@@ -1,7 +1,0 @@
-2024-12-29 13:07:15.908 +04:00 [INF] Amount 450 GEL withdrawn successfully from Account 3996396784152904
-2024-12-29 13:08:29.654 +04:00 [INF] Amount 4500 USD withdrawn successfully from Account 6841427025449039
-2024-12-29 13:09:13.719 +04:00 [INF] Amount 500 USD withdrawn successfully from Account 6841427025449039
-2024-12-29 13:14:09.515 +04:00 [INF] Amount 500 USD deposited successfully into Account 6841427025449039
-2024-12-29 13:30:28.536 +04:00 [INF] 140.00 GBP successfully transferred from Account 5581845197545811 to Account 3996396784152904
-2024-12-29 14:31:31.537 +04:00 [INF] Amount 60 GEL deposited successfully into Account 3996396784152904
-2024-12-29 14:34:12.260 +04:00 [INF] Amount 140 GBP deposited successfully into Account 5581845197545811

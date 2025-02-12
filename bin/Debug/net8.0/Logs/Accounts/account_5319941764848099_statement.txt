@@ -1,7 +1,0 @@
-Account Holder: George Shanidze
-Account Number: 5319941764848099
-Account Type: Savings
-Open Date: 1/15/2025 9:16:52 AM
-Current Balance: 3000 EUR
-Is Active: True
-Transactions: None

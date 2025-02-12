@@ -1,2 +1,0 @@
-2025-01-08 22:54:13.235 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
-2025-01-08 22:54:54.018 +04:00 [WRN] Failed login attempt with email: shanidze.geo2004@gmail.co

@@ -1,4 +1,0 @@
-2024-12-30 18:33:58.306 +04:00 [INF] Amount 300 GEL deposited successfully into Account 3996396784152904
-2024-12-30 18:35:32.841 +04:00 [INF] 180.00 USD successfully transferred from Account 6841427025449039 to Account 3996396784152904
-2024-12-30 18:42:13.037 +04:00 [INF] Amount 20 GEL deposited successfully into Account 3996396784152904
-2024-12-30 18:42:24.406 +04:00 [INF] Amount 80 USD deposited successfully into Account 6841427025449039
