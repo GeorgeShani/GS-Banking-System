@@ -1,0 +1,7 @@
+Account Holder: Mariam Shanidze
+Account Number: 4645111045618780
+Account Type: Savings
+Open Date: 1/15/2025 9:10:06 AM
+Current Balance: 10000 USD
+Is Active: True
+Transactions: None

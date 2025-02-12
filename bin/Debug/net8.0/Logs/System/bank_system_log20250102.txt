@@ -1,0 +1,8 @@
+2025-01-02 12:47:31.718 +04:00 [WRN] Failed login attempt with email: shanidze.geo2004@gmail.com
+2025-01-02 12:48:27.281 +04:00 [WRN] Failed login attempt with email: shanidze.geo2004@gmail.com
+2025-01-02 12:49:27.982 +04:00 [WRN] Failed login attempt with email: shanidze.geo2004@gmail.com
+2025-01-02 12:51:45.278 +04:00 [INF] New client signed up with email: ketileladze9@gmail.com
+2025-01-02 12:54:55.383 +04:00 [INF] New client signed up with email: shanidze.geo2004@gmail.com
+2025-01-02 12:55:31.300 +04:00 [INF] New Account 5924993091688174 created
+2025-01-02 12:55:46.669 +04:00 [INF] New Account 4945691109935755 created
+2025-01-02 12:57:18.104 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.

@@ -1,0 +1,5 @@
+2025-01-17 12:22:01.545 +04:00 [WRN] Login attempt with invalid email: john.doe2001@gmail.com
+2025-01-17 12:22:48.800 +04:00 [INF] Client with email john.doe2001@example.com logged in successfully.
+2025-01-17 12:23:17.995 +04:00 [INF] Client with ID 3 was Successfully Updated.
+2025-01-17 12:25:45.700 +04:00 [INF] Client with email john.doe2001@example.com logged in successfully.
+2025-01-17 12:26:11.536 +04:00 [ERR] Error transferring money from Account 3043543444211934 to Account 6788127920492408: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.

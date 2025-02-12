@@ -1,0 +1,9 @@
+2025-01-22 15:49:40.548 +04:00 [WRN] Failed login attempt for client with email: shanidze.mar2001@gmail.com
+2025-01-22 15:49:49.485 +04:00 [WRN] Failed login attempt for client with email: shanidze.mar2001@gmail.com
+2025-01-22 15:50:08.810 +04:00 [WRN] Failed login attempt for client with email: shanidze.mar2001@gmail.com
+2025-01-22 15:51:13.831 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-22 15:53:17.212 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-22 15:55:06.411 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-22 15:57:13.942 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-22 16:02:08.039 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-22 16:04:06.946 +04:00 [INF] Transaction Deleted. ID: 39, Amount: 256.80, Status: Failed

@@ -1,0 +1,2 @@
+2025-01-31 18:10:36.580 +04:00 [INF] Client with email john.doe2001@example.com logged in successfully.
+2025-01-31 18:11:40.931 +04:00 [INF] 218.75 USD successfully transferred from Account 3043543444211934 to Account 6668615178479270

@@ -1,0 +1,4 @@
+2025-01-12 18:19:09.500 +04:00 [WRN] Failed login attempt for client with email: lashakakashvili114@gmail.com
+2025-01-12 18:20:46.997 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-12 18:22:46.002 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-12 18:26:29.443 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.

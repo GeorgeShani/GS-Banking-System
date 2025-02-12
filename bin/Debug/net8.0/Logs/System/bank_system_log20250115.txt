@@ -1,0 +1,52 @@
+2025-01-15 00:00:16.399 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 00:01:23.931 +04:00 [INF] Amount 250 GEL withdrawn successfully from Account 5073118395982383
+2025-01-15 00:05:09.349 +04:00 [WRN] Failed login attempt for client with email: shanidze.mar2001@gmail.com
+2025-01-15 00:05:15.983 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 00:05:37.917 +04:00 [INF] Amount 250 GEL withdrawn successfully from Account 5073118395982383
+2025-01-15 00:13:43.804 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 00:13:54.543 +04:00 [INF] Amount 250 GEL deposited successfully into Account 5073118395982383
+2025-01-15 00:17:28.947 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 00:17:52.435 +04:00 [INF] Amount 1000 GBP withdrawn successfully from Account 3367573534037574
+2025-01-15 00:21:54.787 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 00:22:07.072 +04:00 [INF] Amount 500 GEL withdrawn successfully from Account 5073118395982383
+2025-01-15 09:09:37.117 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:09:47.839 +04:00 [INF] Amount 250 GEL withdrawn successfully from Account 5073118395982383
+2025-01-15 09:10:06.831 +04:00 [INF] New Account 4645111045618780 created
+2025-01-15 09:12:11.180 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:12:36.472 +04:00 [ERR] Failed to create a new account: An error occurred while saving the entity changes. See the inner exception for details.
+2025-01-15 09:16:22.486 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 09:16:53.023 +04:00 [INF] New Account 5319941764848099 created
+2025-01-15 09:20:16.256 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 09:26:41.468 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:30:03.313 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:30:36.714 +04:00 [ERR] Error transferring money from Account 5073118395982383 to Account 5319941764848099: The instance of entity type 'Client' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 09:42:09.604 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:42:46.682 +04:00 [ERR] Error transferring money from Account 5073118395982383 to Account 3367573534037574: The instance of entity type 'Client' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 09:51:12.330 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 09:51:37.224 +04:00 [ERR] Error transferring money from Account 5073118395982383 to Account 4645111045618780: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 12:58:31.994 +04:00 [WRN] Login attempt with invalid email: keti
+2025-01-15 13:00:37.190 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 13:02:38.927 +04:00 [ERR] Error depositing 500 GEL into Account 5073118395982383: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 13:11:22.113 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 13:11:34.215 +04:00 [INF] Amount 500 GBP deposited successfully into Account 3367573534037574
+2025-01-15 14:19:56.555 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 14:21:11.068 +04:00 [INF] New Client Created. First Name: John, Last Name: Doe, Username: JohnDoe2001, Timestamp: 1/15/2025 12:00:00 AM
+2025-01-15 14:21:40.584 +04:00 [INF] New Account 6668615178479270 created
+2025-01-15 14:24:04.368 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:24:26.960 +04:00 [INF] 1000 GEL successfully transferred from Account 5073118395982383 to Account 6668615178479270
+2025-01-15 14:26:57.808 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:27:25.332 +04:00 [ERR] Error transferring money from Account 5073118395982383 to Account 3367573534037574: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 14:30:23.471 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:34:20.437 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:36:55.403 +04:00 [WRN] Failed login attempt for client with email: shanidze.mar2001@gmail.com
+2025-01-15 14:37:00.005 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:43:31.169 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 14:45:04.442 +04:00 [INF] New Account 3759259402114374 created
+2025-01-15 14:46:43.021 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 14:59:51.088 +04:00 [INF] Client with email shanidze.mar2001@gmail.com logged in successfully.
+2025-01-15 15:01:58.459 +04:00 [ERR] Failed to update account: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 15:02:47.896 +04:00 [ERR] Failed to toggle account status: The instance of entity type 'Account' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+2025-01-15 17:43:22.231 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 22:00:08.842 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 22:04:08.779 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
+2025-01-15 22:05:50.486 +04:00 [INF] Client with email shanidze.geo2004@gmail.com logged in successfully.
